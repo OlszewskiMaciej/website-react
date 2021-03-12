@@ -1,3 +1,7 @@
+![Example](https://github.com/OlszewskiMaciej/todo-app-react/blob/master/public/example.png)
+![Example-mobile](https://github.com/OlszewskiMaciej/todo-app-react/blob/master/public/example-mobile.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
